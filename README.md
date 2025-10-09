@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amirkarshenas"><img src="https://img.shields.io/badge/LinkedIn-Amir%20Karshenas-blue?logo=linkedin" /></a>
   <a href="https://github.com/amirkarshenas"><img src="https://img.shields.io/badge/GitHub-%40amirkarshenas-black?logo=github" /></a>
-  <a href="mailto:amir.karshenas@rti.org"><img src="https://img.shields.io/badge/Email-amir.karshenas%40rti.org-red?logo=gmail" /></a>
+  <a href="mailto:amir.karshenas@gmail.com"><img src="https://img.shields.io/badge/Email-amir.karshenas%40rti.org-red?logo=gmail" /></a>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Encourage open-source collaboration and the use of .NET in academic and nonprofi
 <p align="center">
   <a href="https://www.linkedin.com/in/amirkarshenas"><img src="https://img.shields.io/badge/LinkedIn-Amir%20Karshenas-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/amirkarshenas"><img src="https://img.shields.io/badge/GitHub-%40amirkarshenas-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:amir.karshenas@rti.org"><img src="https://img.shields.io/badge/Email-amir.karshenas%40rti.org-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:amir.karshenas@gmail.com"><img src="https://img.shields.io/badge/Email-amir.karshenas%40rti.org-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
