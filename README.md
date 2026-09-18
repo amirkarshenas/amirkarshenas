@@ -1,7 +1,7 @@
 <!-- Beautiful GitHub README for Amir Karshenas -->
 
 <h1 align="center">👋 Hi, I’m <b>Amir Karshenas</b></h1>
-<h3 align="center">🚀 .NET Architect | Scientific Software Innovator | Mentor & Community Advocate</h3>
+<h3 align="center">🚀 AI Architect | Scientific Software Innovator | Mentor & Community Advocate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amirkarshenas"><img src="https://img.shields.io/badge/LinkedIn-Amir%20Karshenas-blue?logo=linkedin" /></a>
