@@ -22,7 +22,7 @@ My focus is on making .NET the language of science — powering reproducible res
 
 ### 🧠 What I Do
 
-✅ **Architect Enterprise-Grade .NET Systems**  
+✅ **Architect Enterprise-Grade AI Systems**  
 Design large distributed platforms using ASP.NET Core, EF Core, Azure Functions, and RESTful APIs.
 
 ✅ **Advance .NET in Scientific Research**  
